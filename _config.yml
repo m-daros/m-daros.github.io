@@ -29,17 +29,17 @@ twitter_username:
 github_username:  m-daros
 
 # Build settings
-#theme: minima
-#plugins:
-#  - jekyll-feed
-
-
-remote_theme: benbalter/retlab
+theme: minima
 plugins:
   - jekyll-feed
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-seo-tag
+
+
+#remote_theme: benbalter/retlab
+#plugins:
+  - jekyll-feed
+#  - jemoji
+#  - jekyll-sitemap
+#  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

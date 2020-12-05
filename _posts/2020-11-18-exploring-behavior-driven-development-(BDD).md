@@ -2,6 +2,9 @@
 layout: post
 title:  "Exploring Behavior Driven Development (BDD)"
 date:   2020-11-18 16:04:54 +0100
+feature-img: "assets/2020-11-18-exploring-behavior-driven-development-(BDD)/bdd-team.jpg"
+#thumbnail: "assets/2020-11-18-exploring-behavior-driven-development-(BDD)/bdd-team.jpg"
+tags: [BDD]
 categories: bdd
 ---
 
